@@ -11,6 +11,9 @@
 		077BD8B82B0E69250066037A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077BD8B72B0E69250066037A /* ContentView.swift */; };
 		077BD8BA2B0E69260066037A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 077BD8B92B0E69260066037A /* Assets.xcassets */; };
 		077BD8BD2B0E69260066037A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 077BD8BC2B0E69260066037A /* Preview Assets.xcassets */; };
+		077BD8C42B0E6A1B0066037A /* CoffeeMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077BD8C32B0E6A1B0066037A /* CoffeeMachine.swift */; };
+		077BD8C62B0E6CEB0066037A /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077BD8C52B0E6CEB0066037A /* SecondView.swift */; };
+		077BD8C82B0E70000066037A /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077BD8C72B0E70000066037A /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		077BD8B72B0E69250066037A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		077BD8B92B0E69260066037A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		077BD8BC2B0E69260066037A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		077BD8C32B0E6A1B0066037A /* CoffeeMachine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeMachine.swift; sourceTree = "<group>"; };
+		077BD8C52B0E6CEB0066037A /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		077BD8C72B0E70000066037A /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				077BD8B52B0E69250066037A /* Percent_CalculatorApp.swift */,
 				077BD8B72B0E69250066037A /* ContentView.swift */,
+				077BD8C72B0E70000066037A /* User.swift */,
+				077BD8C52B0E6CEB0066037A /* SecondView.swift */,
+				077BD8C32B0E6A1B0066037A /* CoffeeMachine.swift */,
 				077BD8B92B0E69260066037A /* Assets.xcassets */,
 				077BD8BB2B0E69260066037A /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				077BD8B82B0E69250066037A /* ContentView.swift in Sources */,
 				077BD8B62B0E69250066037A /* Percent_CalculatorApp.swift in Sources */,
+				077BD8C62B0E6CEB0066037A /* SecondView.swift in Sources */,
+				077BD8C82B0E70000066037A /* User.swift in Sources */,
+				077BD8C42B0E6A1B0066037A /* CoffeeMachine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
